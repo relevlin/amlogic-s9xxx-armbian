@@ -47,7 +47,7 @@ inputs:
   gh_token:
     description: "Set the token."
     required: false
-    default: "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"
+    default: "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"
   # For compile kernel -----
   kernel_source:
     description: "Select the kernel source code"
